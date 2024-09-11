@@ -1,5 +1,6 @@
 div#slidelink {
     float: right;
+    vertical-align: middle; 
 }
 
 .hll { background-color: #ffffcc }
